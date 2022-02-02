@@ -76,4 +76,9 @@ main h2 {
   text-align: center;
 }
 
+main .container3 {
+  display: flex;
+  justify-content: space-around;
+}
+
 /*footer*/
